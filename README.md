@@ -2,3 +2,4 @@
 ================
 
 What's the next number in the pattern?
+Hint: Graham Normal Distribution - Curve
